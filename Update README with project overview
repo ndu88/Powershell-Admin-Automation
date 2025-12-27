@@ -1,0 +1,20 @@
+# PowerShell Admin Automation
+
+This repository contains PowerShell scripts used to automate common IT administration tasks.
+
+## Included Scripts
+- Bulk Active Directory user creation
+- Disable inactive AD accounts
+- Installed software reporting
+- System health reporting
+- Microsoft 365 license reporting
+
+## Technologies
+- PowerShell
+- Active Directory
+- Windows Server
+- Microsoft 365
+
+## Disclaimer
+Scripts are for learning and testing purposes. Always test in a non-production environment.
+
