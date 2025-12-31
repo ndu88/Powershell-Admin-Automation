@@ -4,7 +4,7 @@ This repository contains PowerShell scripts used to automate common IT administr
 
 ## Included Scripts
 - Bulk Active Directory user creation
-- Disable inactive AD accounts
+- Send Manager Notification Before Disabling inactive AD accounts 
 - Installed software reporting
 - System health reporting
 - Microsoft 365 license reporting
